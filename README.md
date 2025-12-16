@@ -65,4 +65,5 @@ Success rates have improved significantly over time, particularly after the intr
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, Plotly Dash, Scikit-learn, BeautifulSoup, Requests
 
 ***AUTHOR***
+
 George Monappallil
