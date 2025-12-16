@@ -3,6 +3,7 @@
 
 
 ***PROJECT OVERVIEW***
+
 The commercial space industry has been revolutionized by SpaceX's introduction of the Falcon 9, a reusable rocket that significantly reduces the cost of space access. While expendable rockets cost upwards of $165 million per launch, a reused Falcon 9 drops the cost to approximately $62 million.
 
 The main objective of this Capstone project is to predict whether the Falcon 9 first stage will land successfully. By leveraging historical launch data and machine learning algorithms, we can determine the likelihood of a successful landing, enabling competitors and stakeholders to estimate the true cost of a launch for strategic bidding.
